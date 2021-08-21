@@ -1,0 +1,2 @@
+Simple application in Java Swing to track user inputted runs which are then graphically displayed with JavaFreeChart. Furthermore, the runs are
+saved to JSON files using GSON in between application open and close so the user does not need to re-enter data.
